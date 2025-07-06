@@ -1,0 +1,98 @@
+body {
+    background-color: antiquewhite;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:darkslategrey
+}
+
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+
+.botao {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    background-color: azure;
+    border: 1px solid rgb(rgb(0, 255, 179), green, blue);
+    padding: 7px;
+    
+}
+
+.hobbies {
+    display: flex;
+    justify-content: center;
+}
+
+.tabela{
+    display:flex;
+    justify-content: center;
+}
+
+.nametable{
+    padding: 70px;
+}
+
+table,th, tr, td {
+    border: 1px solid black;
+    border-width: 3px;
+}
+
+th{
+    background-color:cadetblue;
+    font-style: oblique;
+    padding: 15px;
+}
+
+tr{
+    padding: 50px;
+    font-size: 20px;
+}
+
+td{
+    padding: 40px;
+    font-size: 20px;
+}
+
+ul{
+    list-style:inside;
+    padding: 20px;
+}
+
+li{
+    padding: 20px;
+    font-size: 15px;
+}
+
+.img {
+    width:400px; 
+    height:300px;
+    border-style:ridge;
+    border-radius:30px; 
+
+}
+
+table {
+    border:1px;
+    width: 800px;
+}
+
+.imagem1, .imagem2, .imagem3 {
+    width: 100%;
+    
+}
+td {
+    padding: 0;
+}
+a:hover {
+  color:firebrick;  
+}
+
+.link {
+    text-align: center;
+}
+
+
